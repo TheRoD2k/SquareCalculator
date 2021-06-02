@@ -2,6 +2,8 @@
 Class system for square calculation of different figures + basic Unit Testing
 Ponomarev Artem
 
+Visual Studio 19, /std:c++latest
+
 Code structure:
 
 BaseFigure -> CircleFigure, QuadrangleFigure, TriangleFigure
